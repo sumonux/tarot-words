@@ -1,13 +1,13 @@
 ---
 title: 'Unlocking the Mysteries: Explore the Language of Tarot'
 excerpt: "Dive into the enchanting world of tarot with Tarot Words. Discover the profound meanings behind each card, unravel the mysteries of the Fool's journey, and explore the rich symbolism that shapes the language of tarot. "
-coverImage: '/images/cover.webp'
+coverImage: '/images/blog/cover.webp'
 date: '2023-09-28T05:35:07.322Z'
 author:
   name: Eliara Mavreen
   picture: '/images/profile/eliara-mavreen.webp'
 ogImage:
-  url: '/images/cover.webp'
+  url: '/images/blog/cover.webp'
 ---
 
 Tarot, a centuries-old divination practice, has captivated the minds and hearts of seekers, mystics, and curious minds alike. The deck, a collection of 78 cards, serves as a portal into the mysteries of the human experience. Each card, rich in symbolism and meaning, weaves a narrative that extends beyond mere fortune-telling. In this exploration of the language of tarot, we delve into the profound insights and hidden wisdom that these mystical cards offer.
