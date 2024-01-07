@@ -2,7 +2,7 @@
 title: 'The High Priestess tarot in Yes or No readings'
 excerpt: 'In tarot, the High Priestess embodies intuition, mystery, and the connection to the unseen. When seeking answers to yes or no...'
 coverImage: '/images/blog/the-high-priestess-and-yes-or-no.webp'
-date: '2024-01-07T011:11:07.332Z'
+date: '2024-01-07T11:11:07.332Z'
 author:
   name: Eliara Mavreen
   picture: '/images/profile/eliara-mavreen.webp'
